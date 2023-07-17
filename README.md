@@ -23,6 +23,4 @@ I ocassionally blog and tweet about android/ios/flutter. Also open sourced few a
 
 ## Get in touch :coffee:
 
-- Your future life savior :stuck_out_tongue: 
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/manishprakashind)
-- And of course GitHub you're already on (Recursion).
+- Your future life savior :stuck_out_tongue:
